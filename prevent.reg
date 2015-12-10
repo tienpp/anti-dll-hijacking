@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\]
+"SafeDllSearchMode"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\]
+"CWDIllegalInDllSearch"=dword:ffffffff
