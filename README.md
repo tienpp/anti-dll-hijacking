@@ -9,7 +9,7 @@ I also have created the small utility for learning purpose. Please follow step t
   2. Prepare the DLL to inject into the process when it's created. Using the DLL part of ReflectiveDLLInjection.
   3. Create the main process in real time monitor the creation of the process and make the injection.
 
-You could find the precompiled binary from folder Bin, it's for Windows 7 32bit. The video demo of this tool could be found here: https://www.youtube.com/watch?v=7XMxRWqFrc0
+The video demo of this tool could be found here: https://www.youtube.com/watch?v=7XMxRWqFrc0
 
 Give my best thanks to authors of 2 project ReflectiveDLLInjection and ProcMon.
 
